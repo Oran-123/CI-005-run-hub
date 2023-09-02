@@ -70,13 +70,5 @@
             "name": "Salomon",
             "friendly_name": "Salomon"
         }
-    },
-    {
-        "pk": 10,
-        "model": "products.category",
-        "fields": {
-            "name": "On Running",
-            "friendly_name": "On Running"
-        }
     }
 ]
