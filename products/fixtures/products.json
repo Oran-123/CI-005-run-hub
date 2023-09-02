@@ -1,0 +1,136 @@
+[
+    {
+        "pk": 1,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5001340155",
+            "name": "Nike Air Zoom Pegasus 38",
+            "description": "The Nike Air Zoom Pegasus 38 is a versatile running shoe that offers responsive cushioning and a comfortable fit for all your runs.",
+            "price": 119.99,
+            "category": 1,
+            "rating": 4.6,
+            "image_url": "",
+            "image": "pegasus38.jpg",
+            "color": "Black"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5001340156",
+            "name": "Adidas Ultraboost 21",
+            "description": "The Adidas Ultraboost 21 is known for its energy-returning cushioning and sleek design, making it a favorite among runners.",
+            "price": 149.99,
+            "category": 2,
+            "rating": 4.5,
+            "image_url": "",
+            "image": "ultraboost21.jpg",
+            "color": "Grey"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5001340157",
+            "name": "Brooks Ghost 14",
+            "description": "The Brooks Ghost 14 offers a balanced and cushioned ride, perfect for runners looking for comfort and support.",
+            "price": 129.99,
+            "category": 3,
+            "rating": 4.4,
+            "image_url": "",
+            "image": "ghost14.jpg",
+            "color": "Blue"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5001340158",
+            "name": "ASICS Gel-Kayano 28",
+            "description": "The ASICS Gel-Kayano 28 provides stability and comfort, making it an excellent choice for overpronators and long-distance runners.",
+            "price": 159.99,
+            "category": 4,
+            "rating": 4.7,
+            "image_url": "",
+            "image": "gelkayano28.jpg",
+            "color": "White"
+        }
+    },
+    {
+        "pk": 5,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5001340159",
+            "name": "New Balance Fresh Foam 1080v11",
+            "description": "The New Balance Fresh Foam 1080v11 offers a plush and cushioned ride, perfect for neutral runners seeking comfort.",
+            "price": 139.99,
+            "category": 5,
+            "rating": 4.3,
+            "image_url": "",
+            "image": "freshfoam1080v11.jpg",
+            "color": "Black"
+        }
+    },
+    {
+        "pk": 6,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5001340160",
+            "name": "Saucony Ride 14",
+            "description": "The Saucony Ride 14 is known for its smooth and responsive ride, making it a versatile choice for runners.",
+            "price": 119.99,
+            "category": 6,
+            "rating": 4.2,
+            "image_url": "",
+            "image": "ride14.jpg",
+            "color": "Blue"
+        }
+    },
+    {
+        "pk": 7,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5001340161",
+            "name": "Hoka One One Clifton 8",
+            "description": "The Hoka One One Clifton 8 offers maximum cushioning and a lightweight design, ideal for long-distance runners.",
+            "price": 149.99,
+            "category": 7,
+            "rating": 4.8,
+            "image_url": "",
+            "image": "clifton8.jpg",
+            "color": "Grey"
+        }
+    },
+    {
+        "pk": 8,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5001340162",
+            "name": "Mizuno Wave Rider 25",
+            "description": "The Mizuno Wave Rider 25 provides a smooth and responsive ride, making it a popular choice among runners.",
+            "price": 129.99,
+            "category": 8,
+            "rating": 4.6,
+            "image_url": "",
+            "image": "waverider25.jpg",
+            "color": "Black"
+        }
+    },
+    {
+        "pk": 9,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5001340163",
+            "name": "Salomon Speedcross 5",
+            "description": "The Salomon Speedcross 5 is a trail running shoe known for its aggressive traction and durability in challenging terrain.",
+            "price": 139.99,
+            "category": 9,
+            "rating": 4.4,
+            "image_url": "",
+            "image": "speedcross5.jpg",
+        }
+    }
+]
