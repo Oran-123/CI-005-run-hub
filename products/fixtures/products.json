@@ -11,7 +11,7 @@
             "rating": 4.6,
             "image_url": "",
             "image": "pegasus38.jpg",
-            "color": "Black"
+            "colour": "Black"
         }
     },
     {
@@ -26,7 +26,7 @@
             "rating": 4.5,
             "image_url": "",
             "image": "ultraboost21.jpg",
-            "color": "Grey"
+            "colour": "Grey"
         }
     },
     {
@@ -41,7 +41,7 @@
             "rating": 4.4,
             "image_url": "",
             "image": "ghost14.jpg",
-            "color": "Blue"
+            "colour": "Blue"
         }
     },
     {
@@ -56,7 +56,7 @@
             "rating": 4.7,
             "image_url": "",
             "image": "gelkayano28.jpg",
-            "color": "White"
+            "colour": "White"
         }
     },
     {
@@ -71,7 +71,7 @@
             "rating": 4.3,
             "image_url": "",
             "image": "freshfoam1080v11.jpg",
-            "color": "Black"
+            "colour": "Black"
         }
     },
     {
@@ -86,7 +86,7 @@
             "rating": 4.2,
             "image_url": "",
             "image": "ride14.jpg",
-            "color": "Blue"
+            "colour": "Blue"
         }
     },
     {
@@ -101,7 +101,7 @@
             "rating": 4.8,
             "image_url": "",
             "image": "clifton8.jpg",
-            "color": "Grey"
+            "colour": "Grey"
         }
     },
     {
@@ -116,7 +116,7 @@
             "rating": 4.6,
             "image_url": "",
             "image": "waverider25.jpg",
-            "color": "Black"
+            "colour": "Black"
         }
     },
     {
@@ -131,6 +131,7 @@
             "rating": 4.4,
             "image_url": "",
             "image": "speedcross5.jpg",
+            "colour": "Green"
         }
     }
 ]
