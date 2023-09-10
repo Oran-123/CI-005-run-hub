@@ -75,11 +75,21 @@ Regarding our target market, our primary focus will be on catering to the needs 
 * <strong>Social Media Marketing:</strong> Leverage Instagram and Facebook for regular updates, stories, and influencer collaborations.
 * <strong>Content Creation:</strong> Publish engaging blog posts and email newsletters for valuable running insights and offers.
 * <strong>Online Advertising:</strong> Utilize Google AdWords for targeted advertising to capture potential customers actively searching for running gear.
-* <strong>Customer Engagement:</strong> Provide live chat support and prompt email responses to assist and convert website visitors.
+* <strong>Customer Engagement:</strong> Provide support via email responses to assist and convert website visitors.
 * <strong>Local Engagement:</strong> Maintain a local presence through event participation, sponsorships, and collaborations with fitness centers.
 * <strong>Partnerships:</strong> Collaborate with gyms, trainers, and running clubs to offer exclusive discounts and drive traffic to the online store.
 
 ### Operations and Management
+
+ Run Hub will be led by a dedicated team of experienced professionals. Our core team will comprise a CEO, CTO, and marketing and sales staff, all of whom bring a wealth of expertise in the running industry.
+
+* <strong>CEO:</strong> Responsible for overall business strategy, decision-making, and team leadership.
+* <strong>CTO:</strong> Oversees the technical aspects, including website management, technology upgrades, and software enhancements
+* <strong>Marketing and Sales Staff:</strong> Responsible for driving sales through digital marketing, customer engagement, and partnerships.
+* <strong>Operational Infrastructure:</strong> We will rely on an efficient operational infrastructure to support our business:
+  * <strong>Cloud-Based Platform:</strong> Our website and software will be hosted on a secure cloud-based platform, ensuring scalability and reliability.
+  * <strong>Payment Gateway:</strong> We will employ a trusted payment gateway for secure and efficient transaction processing.
+  - <strong>Fulfillment Centers:</strong> To streamline product storage, packing, and shipping, we will partner with reputable third-party fulfillment centers. This approach will allow us to
 
 #### Financial Plan
 
