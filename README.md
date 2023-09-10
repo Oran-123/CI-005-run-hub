@@ -7,6 +7,11 @@
   - [Marketing and Sales Strategy](#marketing-and-sales-strategy)
   - [Operations and Management](#operations-and-management)
     - [Financial Plan](#financial-plan)
+      - [Revenue Streams:](#revenue-streams)
+      - [Expenses:](#expenses)
+      - [Financing:](#financing)
+      - [Revenue Projections (Annual):](#revenue-projections-annual)
+      - [Profitability:](#profitability)
   - [Conclusion](#conclusion)
 - [Marketing](#marketing)
   - [Social Media](#social-media)
@@ -87,11 +92,39 @@ Regarding our target market, our primary focus will be on catering to the needs 
 * <strong>CTO:</strong> Oversees the technical aspects, including website management, technology upgrades, and software enhancements
 * <strong>Marketing and Sales Staff:</strong> Responsible for driving sales through digital marketing, customer engagement, and partnerships.
 * <strong>Operational Infrastructure:</strong> We will rely on an efficient operational infrastructure to support our business:
-  * <strong>Cloud-Based Platform:</strong> Our website and software will be hosted on a secure cloud-based platform, ensuring scalability and reliability.
-  * <strong>Payment Gateway:</strong> We will employ a trusted payment gateway for secure and efficient transaction processing.
+  - <strong>Cloud-Based Platform:</strong> Our website and software will be hosted on a secure cloud-based platform, ensuring scalability and reliability.
+  - <strong>Payment Gateway:</strong> We will employ a trusted payment gateway for secure and efficient transaction processing.
   - <strong>Fulfillment Centers:</strong> To streamline product storage, packing, and shipping, we will partner with reputable third-party fulfillment centers. This approach will allow us to
 
 #### Financial Plan
+
+##### Revenue Streams:
+
+* <strong>Product Sales:</strong> Run Hub will generate revenue through the sale of running shoes and related products via our e-commerce shop. We anticipate strong demand from the Irish running community.
+* <strong>Software Sales:</strong> We will also offer specialized software to running clubs and societies in Ireland to help manage their operations efficiently.
+
+##### Expenses:
+
+* <strong>Marketing and Advertising:</strong> To drive website traffic and attract customers, we will allocate a significant portion of our budget to marketing and advertising efforts. This will include online campaigns, social media promotion, and potentially local events.
+* <strong>Development Expenses:</strong> Ongoing development and maintenance of the e-commerce platform and software will be necessary to meet customer needs and stay competitive in the market.
+
+##### Financing:
+
+* <strong>Initial Funding:</strong> The initial capital for Run Hub will be secured through a combination of personal investments from the founders and a small seed round of funding. This funding will provide the necessary resources for business setup and initial operations.
+* <strong>Future Funding:</strong> As the business grows, we will explore additional financing options, such as venture capital or a larger round of financing, to support expansion and marketing efforts.
+
+##### Revenue Projections (Annual):
+
+* <strong>Year 1 (2023):</strong> We anticipate generating €500,000 in revenue. This will consist of €300,000 from product sales and €200,000 from software sales. Given the growing interest in running in Ireland, we expect a strong start.
+* <strong>Year 2 (2024):</strong> We forecast revenue to increase to €750,000, with €450,000 from product sales and €300,000 from software sales. As our brand gains recognition, we anticipate a significant uptick in sales.
+* <strong>Year 3 (2025):</strong> Our projection for the third year is €1 million in revenue, with €600,000 from product sales and €400,000 from software sales. As our customer base expands and we fine-tune our operations, we expect continued growth.
+
+##### Profitability:
+
+* <strong>Break-Even:</strong> We expect to break even within the first year of operation, thanks to careful cost management and strong product sales.
+* <strong>Profitability:</strong> By the second year, we anticipate achieving profitability, as revenue growth outpaces expenses. This positive trend is expected to continue in subsequent years.
+
+Our financial plan for Run Hub is based on a comprehensive analysis of the Irish market, and we are confident that our revenue projections and profitability timeline are achievable as we establish a strong presence in the running industry.
 
 ### Conclusion
 
