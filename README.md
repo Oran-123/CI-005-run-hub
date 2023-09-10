@@ -63,6 +63,12 @@
 
 ### Market Analysis
 
+Run Hub is a specialized retail store catering to the ever-growing market of running enthusiasts. The running industry is a robust and continually expanding sector with a passionate and dedicated consumer base. While brick-and-mortar stores remain a popular choice for purchasing running shoes, there's a noticeable shift towards online retail in recent years. This shift presents a significant opportunity for Run Hub to establish itself as a dominant player in the market.
+
+In terms of competition, Run Hub will face competition from both traditional brick-and-mortar running stores and online retailers. However, we are confident that our store's unique selling points, such as a diverse range of high-quality running shoe brands, expert staff with in-depth knowledge, and personalized fitting services, will set us apart from our competitors and position us as the preferred choice for runners of all levels.
+
+Regarding our target market, our primary focus will be on catering to the needs of runners from diverse skill levels and demographics. We understand that every runner is unique, and our store will offer a curated selection of running shoes tailored to suit different running styles and preferences. Additionally, we will explore partnerships with local running clubs and events to tap into the community of avid runners and build brand loyalty among this active and engaged customer base.
+
 ### Marketing and Sales Strategy
 
 ### Operations and Management
