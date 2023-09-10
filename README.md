@@ -71,6 +71,14 @@ Regarding our target market, our primary focus will be on catering to the needs 
 
 ### Marketing and Sales Strategy
 
+* <strong>Online Presence:</strong> Focus on online sales through an optimized e-commerce platform.
+* <strong>Social Media Marketing:</strong> Leverage Instagram and Facebook for regular updates, stories, and influencer collaborations.
+* <strong>Content Creation:</strong> Publish engaging blog posts and email newsletters for valuable running insights and offers.
+* <strong>Online Advertising:</strong> Utilize Google AdWords for targeted advertising to capture potential customers actively searching for running gear.
+* <strong>Customer Engagement:</strong> Provide live chat support and prompt email responses to assist and convert website visitors.
+* <strong>Local Engagement:</strong> Maintain a local presence through event participation, sponsorships, and collaborations with fitness centers.
+* <strong>Partnerships:</strong> Collaborate with gyms, trainers, and running clubs to offer exclusive discounts and drive traffic to the online store.
+
 ### Operations and Management
 
 #### Financial Plan
