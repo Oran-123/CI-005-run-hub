@@ -66,6 +66,12 @@
 
 ### Executive Summary
 
+Run Hub, a specialized retail store catering to Irish running enthusiasts, aims to capitalize on the thriving running industry. As the market increasingly shifts online, we are well-positioned to establish a strong digital presence, offering a diverse range of high-quality running shoes and personalized fitting services. Our competitive edge, coupled with strategic social media marketing and partnerships, will drive growth.
+
+Operational excellence is key, with an experienced management team overseeing a secure cloud-based platform and efficient logistics through third-party fulfillment centers. In financial terms, we project revenue of €500,000 in year one, rising to €1 million by year three, with profitability achieved by year two. Initial funding includes personal investments and a seed round, with future financing options under consideration.
+
+In summary, Run Hub is poised to become a leading player in the Irish running market, leveraging our unique retail approach and online strategies to meet the diverse needs of runners and drive sustainable growth.
+
 ### Market Analysis
 
 Run Hub is a specialized retail store catering to the ever-growing market of running enthusiasts. The running industry is a robust and continually expanding sector with a passionate and dedicated consumer base. While brick-and-mortar stores remain a popular choice for purchasing running shoes, there's a noticeable shift towards online retail in recent years. This shift presents a significant opportunity for Run Hub to establish itself as a dominant player in the market.
