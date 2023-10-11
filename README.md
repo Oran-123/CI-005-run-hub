@@ -300,9 +300,47 @@ The color combination of blue and red is carefully chosen to evoke trust and exc
 
 ### Heroku
 
+1. Generate pipfile
+
+   - Open the terminal and execute the command "pip3 freeze > requirements.txt" to generate a file containing all the necessary requirements.
+
+2. Heroku Setup
+
+   - Access the [Heroku website](https://www.heroku.com/ "Heroku Website").
+   - Log in to your Heroku account and select <strong>Create an App</strong>.
+   - Click on the <strong>New button</strong> and create an <strong>app</strong>.
+   - Select a suitable name and choose your location.
+   - Proceed to the <strong>Resources tab</strong>.
+   - From the list of resources, pick <strong>Heroku Postgres</strong>.
+   - Go to the <strong>Deploy tab</strong>.
+   - Click on <strong>Connect to Github</strong> and find your repository.
+   - Open the <strong>Settings</strong> tab.
+   - Reveal Config Vars and include your Cloudinary, Database URL (from Heroku-Postgres), and Secret Key.
+
+3. Heroku Deployment
+
+   - Visit the <strong>Deploy tab</strong>.
+   - Choose the <strong>main branch</strong> for deployment and activate <strong>automatic deployment</strong>.
+   - Opt for <strong>manual deployment</strong> to build the application.
+
 ### Fork Repository
 
+To create a duplicate of the repository on your account and make modifications without impacting the original project, follow these steps using the Fork feature on GitHub:
+
+- Access the [repository page](https://github.com/Oran-123/CI-005-run-hub "repository page") on your account.
+- In the top right corner of the page, click on the Fork button.
+- A forked version of the project will be created and added to your repository.
+
 ### Clone Repository
+
+To create a replica of the repository on your local machine, follow these steps using the Clone feature:
+
+- Access the [repository page](https://github.com/Oran-123/Hook-n-Slice-Golf "repository page") on your account.
+- Locate the green <strong>Code</strong> button above the code window and click on it.
+- Choose your preferred format from <strong>HTTPS, SSH</strong>, or <strong>GitClub CLI</strong>, and copy the provided URL (preferably HTTPS).
+- Open your Integrated Development Environment (IDE) and launch Git Bash.
+- Enter the command <strong>git clone</strong> followed by the copied URL in the Git Bash terminal.
+- The repository will be cloned, and a local copy will be created on your machine.
 
 ## Credits
 
@@ -311,6 +349,8 @@ The color combination of blue and red is carefully chosen to evoke trust and exc
 ### Media
 
 ## Acknowledgements
+
+- Code Institute
 
 
 
