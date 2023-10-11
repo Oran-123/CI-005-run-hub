@@ -144,7 +144,14 @@ With a projected revenue of €500,000 in the first year and a profitable outloo
 
 ### Social Media
 
+Run Hub is more than just a store; it's a thriving community for running enthusiasts. Users can stay connected by following Run Hub on both Facebook and Instagram. The Facebook page serves as a platform for keeping members informed about upcoming events, sharing the latest features, and showcasing inspiring user-generated content. Meanwhile, on Instagram, the focus is on highlighting picturesque running routes, unveiling the newest gear, and providing an exclusive behind-the-scenes look into Run Hub's world. Join the Run Hub community on:
+
+- Facebook
+- Instagram
+
 ### Mailing List
+
+For users who want to be in the know, Run Hub manages its mailing list with Mailchimp. By subscribing to the mailing list, users will receive regular updates about new features, upcoming events, and special promotions. Joining is a straightforward process; the user simply provides their email address on the website, and they'll begin receiving tailored email updates. Thanks to Mailchimp, the Run Hub team can segment the list, personalize emails, and measure the effectiveness of their email campaigns. By becoming part of the mailing list, users can stay well-informed and be among the first to discover the latest developments within the Run Hub community.
 
 ## User Goals
 
