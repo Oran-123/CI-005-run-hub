@@ -207,6 +207,10 @@ The color combination of blue and red is carefully chosen to evoke trust and exc
 
 ### Fonts
 
+- <strong>Raleway</strong>: The title font for Run Hub, epitomizes modern sophistication. Its clean and contemporary sans-serif design exudes professionalism and reliability, aligning perfectly with the brand's image. The font's elegance adds a touch of class, making it ideal for showcasing the brand's name and essential headings. Raleway's versatility ensures a consistent and visually pleasing identity that resonates with Run Hub's target audience.
+
+- <strong>Open Sans</strong> The body font for Run Hub's website, is a beacon of clarity and readability. Its neutral sans-serif design ensures a comfortable reading experience, enhancing the accessibility of the content. The font's friendliness and approachability create a welcoming atmosphere, which is crucial for engaging visitors. Open Sans balances readability and style perfectly, making it the ideal choice for Run Hub's user-friendly approach. It contributes to the brand's professional image while ensuring that information is easily digestible and captures the audience's attention.
+
 ## Structure
 
 ## Website pages
