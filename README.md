@@ -191,6 +191,10 @@ It's worth noting that in my project, some user stories labeled as "Must Have" w
 
 ### Logo
 
+The Run Hub logo features the brand name "RUNHUB" in blue, with the "H" subtly extending its descender to form a loop from which a pair of running shoes hangs by their laces. The running shoes are depicted in vibrant red. The logo design creates a sense of unity between the brand name and the symbol, conveying that Run Hub is where runners come together to explore their passion for running. The hanging running shoes represent choice, customization, and individuality, as runners can find the perfect fit for their needs at Run Hub.
+
+The color combination of blue and red is carefully chosen to evoke trust and excitement. The blue of the brand name establishes reliability and professionalism, while the red of the running shoes communicates energy and passion. This combination reflects the brand's commitment to delivering top-quality products and services that ignite the enthusiasm of the running community.
+
 <img src="docs/runhub_logo.png" style="max-width: 50%;"></img>
 
 ### Colors
