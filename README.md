@@ -21,7 +21,9 @@
 - [User Experience](#user-experience)
   - [Target Audience](#target-audience)
   - [User Requirements and Expectations](#user-requirements-and-expectations)
-- [User Stories](#user-stories)
+- [Agile Methodology](#agile-methodology)
+  - [Prioritisation](#prioritisation)
+  - [User Stories and Epics](#user-stories-and-epics)
 - [Wireframes](#wireframes)
 - [Design](#design)
   - [Colors](#colors)
@@ -150,7 +152,25 @@ Our financial plan for Run Hub is based on a comprehensive analysis of the Irish
 
 ### User Requirements and Expectations
 
-## User Stories
+## Agile Methodology
+
+### Prioritisation 
+
+After creating a comprehensive list of criteria, I carefully assessed each user story with regard to its alignment with the overarching project goals. I then employed GitHub Projects to assign priorities to these user stories through the use of labels.
+
+To determine these priorities, I applied the MoSCoW prioritization technique, a widely-adopted practice in agile project management. This method aids in making informed choices regarding the precedence of requirements or features during the development process. The technique categorizes requirements into four distinct groups:
+
+Must Have (M): These are indispensable features that are non-negotiable and must be incorporated into the current release. They serve as the core functionality and are vital for the project's success.
+
+Should Have (S): These features, while significant for enhancing the product, are not as critical as the "Must Have" items. They are essential for the overall project success but may be postponed to a subsequent release if necessary.
+
+Could Have (C): These features are desirable but their absence does not impede the core functionality. They represent potential improvements or nice-to-haves that can be considered for inclusion if time and resources permit.
+
+Won't Have (W): These are features considered unnecessary within the current project scope. They are deliberately excluded from the development process due to factors such as time constraints, technical limitations, or low business value. In my project, I did not employ a specific label to denote "Won't Have" user stories. Instead, during each sprint, if a user story couldn't be completed, it was moved to a "descoped" status to signify its exclusion from the project's scope.
+
+It's worth noting that in my project, some user stories labeled as "Must Have" were not completed. This occurred because certain epics related to these user stories were descoped due to capacity limitations.
+
+### User Stories and Epics 
 
 ## Wireframes
 
