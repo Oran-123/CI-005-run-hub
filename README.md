@@ -155,7 +155,17 @@ For users who want to be in the know, Run Hub manages its mailing list with Mail
 
 ## User Goals
 
+- Easily find and purchase high-quality running shoes and related products.
+- Receive personalized fitting services to meet their unique running needs.
+- Stay updated on the latest running news and insights through the blog.
+- Connect with the Run Hub team for inquiries, support, and guidance.
+
 ## Site Owner Goals
+
+- Generate revenue through the sale of running products on the e-commerce platform and specialized software for running clubs and societies.
+- Cultivate a devoted and engaged customer base by offering a user-friendly experience and top-notch products and services.
+- Establish Run Hub as a trusted and influential brand in the running community.
+- Achieve profitability and ensure sustainable, long-term growth in the running industry.
 
 ## User Experience
 
