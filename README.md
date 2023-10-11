@@ -195,7 +195,7 @@ The Run Hub logo features the brand name "RUNHUB" in blue, with the "H" subtly e
 
 The color combination of blue and red is carefully chosen to evoke trust and excitement. The blue of the brand name establishes reliability and professionalism, while the red of the running shoes communicates energy and passion. This combination reflects the brand's commitment to delivering top-quality products and services that ignite the enthusiasm of the running community.
 
-<img src="docs/runhub_logo.png" style="max-width: 50%;"></img>
+<img src="docs/runhub_logo.png"></img>
 
 ### Colors
 
