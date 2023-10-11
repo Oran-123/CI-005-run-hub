@@ -173,13 +173,13 @@ After creating a comprehensive list of criteria, I carefully assessed each user 
 
 To determine these priorities, I applied the MoSCoW prioritization technique, a widely-adopted practice in agile project management. This method aids in making informed choices regarding the precedence of requirements or features during the development process. The technique categorizes requirements into four distinct groups:
 
-Must Have (M): These are indispensable features that are non-negotiable and must be incorporated into the current release. They serve as the core functionality and are vital for the project's success.
+- <strong>Must Have (M)</strong>: These are indispensable features that are non-negotiable and must be incorporated into the current release. They serve as the core functionality and are vital for the project's success.
 
-Should Have (S): These features, while significant for enhancing the product, are not as critical as the "Must Have" items. They are essential for the overall project success but may be postponed to a subsequent release if necessary.
+- <strong>Should Have (S)</strong>: These features, while significant for enhancing the product, are not as critical as the "Must Have" items. They are essential for the overall project success but may be postponed to a subsequent release if necessary.
 
-Could Have (C): These features are desirable but their absence does not impede the core functionality. They represent potential improvements or nice-to-haves that can be considered for inclusion if time and resources permit.
+- <strong>Could Have (C)</strong>: These features are desirable but their absence does not impede the core functionality. They represent potential improvements or nice-to-haves that can be considered for inclusion if time and resources permit.
 
-Won't Have (W): These are features considered unnecessary within the current project scope. They are deliberately excluded from the development process due to factors such as time constraints, technical limitations, or low business value. In my project, I did not employ a specific label to denote "Won't Have" user stories. Instead, during each sprint, if a user story couldn't be completed, it was moved to a "descoped" status to signify its exclusion from the project's scope.
+- <strong>Won't Have (W)</strong>: These are features considered unnecessary within the current project scope. They are deliberately excluded from the development process due to factors such as time constraints, technical limitations, or low business value. In my project, I did not employ a specific label to denote "Won't Have" user stories. Instead, during each sprint, if a user story couldn't be completed, it was moved to a "descoped" status to signify its exclusion from the project's scope.
 
 It's worth noting that in my project, some user stories labeled as "Must Have" were not completed. This occurred because certain epics related to these user stories were descoped due to capacity limitations.
 
