@@ -227,6 +227,12 @@ The color combination of blue and red is carefully chosen to evoke trust and exc
 
 ### Languages & Frameworks
 
+- HTML
+- CSS
+- Javascript
+- Python
+- Django
+
 ### Libraries & Tools
 
 ## Features  
