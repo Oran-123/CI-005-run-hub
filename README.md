@@ -203,7 +203,7 @@ The color combination of blue and red is carefully chosen to evoke trust and exc
 
 -<strong>Azure Radiance</strong> The blue color (#007BFF) represents trust, reliability, and professionalism. It's a calming and stable color that conveys the idea that Run Hub is a trustworthy and dependable source for running enthusiasts. Blue is also commonly associated with the sky and water, which aligns with the outdoor and nature-related aspects of running.
 
-<img src="docs/design/colour_scheme.png"></img>
+<img src="docs/design/colour_scheme.JPG"></img>
 
 ### Fonts
 
