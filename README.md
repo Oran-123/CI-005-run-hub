@@ -18,14 +18,12 @@
   - [Mailing List](#mailing-list)
 - [User Goals](#user-goals)
 - [Site Owner Goals](#site-owner-goals)
-- [User Experience](#user-experience)
-  - [Target Audience](#target-audience)
-  - [User Requirements and Expectations](#user-requirements-and-expectations)
 - [Agile Methodology](#agile-methodology)
   - [Prioritisation](#prioritisation)
   - [User Stories and Epics](#user-stories-and-epics)
 - [Wireframes](#wireframes)
 - [Design](#design)
+  - [Logo](#logo)
   - [Colors](#colors)
   - [Fonts](#fonts)
 - [Structure](#structure)
@@ -167,12 +165,6 @@ For users who want to be in the know, Run Hub manages its mailing list with Mail
 - Establish Run Hub as a trusted and influential brand in the running community.
 - Achieve profitability and ensure sustainable, long-term growth in the running industry.
 
-## User Experience
-
-### Target Audience
-
-### User Requirements and Expectations
-
 ## Agile Methodology
 
 ### Prioritisation 
@@ -191,11 +183,15 @@ Won't Have (W): These are features considered unnecessary within the current pro
 
 It's worth noting that in my project, some user stories labeled as "Must Have" were not completed. This occurred because certain epics related to these user stories were descoped due to capacity limitations.
 
-### User Stories and Epics 
+### User Stories and Epics
 
 ## Wireframes
 
 ## Design
+
+### Logo
+
+<img src="docs/runhub_logo.png" style="max-width: 50%;"></img>
 
 ### Colors
 
