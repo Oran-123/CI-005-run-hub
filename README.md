@@ -136,6 +136,10 @@ Our financial plan for Run Hub is based on a comprehensive analysis of the Irish
 
 ### Conclusion
 
+In conclusion, Run Hub, a dedicated retail establishment serving the Irish running community, is strategically positioned to thrive in the evolving running industry. Our unique approach, encompassing both online and personalized in-store services, is well-equipped to meet the diverse needs of runners. Backed by an experienced management team, a secure cloud-based infrastructure, and robust financial planning, we anticipate significant growth.
+
+With a projected revenue of €500,000 in the first year and a profitable outlook by the second year, we are confident in our ability to become a prominent player in the Irish running market. Our commitment to operational excellence, unique offerings, and strategic marketing will propel us toward sustainable success.
+
 ## Marketing
 
 ### Social Media
