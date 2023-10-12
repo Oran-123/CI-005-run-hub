@@ -187,6 +187,8 @@ It's worth noting that in my project, some user stories labeled as "Must Have" w
 
 ## Wireframes
 
+I employed Balsamiq for crafting wireframes in my project. This user-friendly wireframing tool facilitates the rapid and effortless creation of mockups for websites and applications. It provides a diverse array of pre-designed UI elements and supports seamless collaboration with my team. I've attached a PNG of the wireframes for you to review the project's design, layout, and workflow before moving forward with actual product development.
+
 <details><summary>Wireframe Home</summary>  
 <img src="docs/wireframes/desktop_home.png"></img>
 </details>
