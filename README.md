@@ -243,6 +243,22 @@ The color combination of blue and red is carefully chosen to evoke trust and exc
 
 ## Website pages
 
+- Home
+- Products
+- Product Details
+- User Profike
+- Admin Manage Order
+- Basket
+- Checkout
+- Contact
+- Register
+- Profile
+- Login
+- Logout
+- Reset Password
+- Register
+- 404
+
 ## AWS
 
 ## Database
