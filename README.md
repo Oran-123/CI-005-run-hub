@@ -241,6 +241,16 @@ The color combination of blue and red is carefully chosen to evoke trust and exc
 
 ## Structure
 
+My website development approach will prioritize mobile devices, adopting a mobile-first mindset. To ensure optimal styling across different screen sizes, I will focus on the smallest screen size of the iPhone 5/SE (320px) and incorporate appropriate screen size breakpoints for responsive design.[Bootstrap breakpoints](https://getbootstrap.com/docs/5.0/layout/breakpoints/ "Bootstrap breakpoints").
+
+| Screen Size | Breakpoint |
+| ----------- | ---------- |
+| x-small     | <576px     |
+| small       | => 576px   |
+| medium      | => 768px   |
+| large       | => 992px   |
+| x-large     | => 1200px  |
+
 ## Website pages
 
 - Home
