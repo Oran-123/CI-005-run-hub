@@ -26,8 +26,8 @@
   - [Logo](#logo)
   - [Colors](#colors)
   - [Fonts](#fonts)
-  - [UX](#ux)
-- [Wireframes](#wireframes)
+- [UX](#ux)
+  - [Wireframes](#wireframes)
   - [Structure](#structure)
   - [Website pages](#website-pages)
 - [Database](#database)
@@ -216,9 +216,9 @@ The color combination of blue and red is carefully chosen to evoke trust and exc
 
 - <strong>Open Sans</strong> The body font for Run Hub's website, is a beacon of clarity and readability. Its neutral sans-serif design ensures a comfortable reading experience, enhancing the accessibility of the content. The font's friendliness and approachability create a welcoming atmosphere, which is crucial for engaging visitors. Open Sans balances readability and style perfectly, making it the ideal choice for Run Hub's user-friendly approach. It contributes to the brand's professional image while ensuring that information is easily digestible and captures the audience's attention.
 
-### UX 
+## UX 
 
-## Wireframes
+### Wireframes
 
 I employed Balsamiq for crafting wireframes in my project. This user-friendly wireframing tool facilitates the rapid and effortless creation of mockups for websites and applications. It provides a diverse array of pre-designed UI elements and supports seamless collaboration with my team. I've attached a PNG of the wireframes for you to review the project's design, layout, and workflow before moving forward with actual product development.
 
