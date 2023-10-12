@@ -16,21 +16,24 @@
 - [Marketing](#marketing)
   - [Social Media](#social-media)
   - [Mailing List](#mailing-list)
-- [User Goals](#user-goals)
-- [Site Owner Goals](#site-owner-goals)
+- [Goals](#goals)
+  - [User Goals](#user-goals)
+  - [Site Owner Goals](#site-owner-goals)
 - [Agile Methodology](#agile-methodology)
   - [Prioritisation](#prioritisation)
   - [User Stories and Epics](#user-stories-and-epics)
-- [Wireframes](#wireframes)
-- [Design](#design)
+- [Branding](#branding)
   - [Logo](#logo)
   - [Colors](#colors)
   - [Fonts](#fonts)
-- [Structure](#structure)
-- [Website pages](#website-pages)
-- [AWS](#aws)
+  - [UX](#ux)
+- [Wireframes](#wireframes)
+  - [Structure](#structure)
+  - [Website pages](#website-pages)
 - [Database](#database)
-- [Models](#models)
+  - [ERD](#erd)
+  - [Models](#models)
+- [AWS](#aws)
 - [Technologies Used](#technologies-used)
   - [Languages \& Frameworks](#languages--frameworks)
   - [Libraries \& Tools](#libraries--tools)
@@ -151,14 +154,16 @@ Run Hub is more than just a store; it's a thriving community for running enthusi
 
 For users who want to be in the know, Run Hub manages its mailing list with Mailchimp. By subscribing to the mailing list, users will receive regular updates about new features, upcoming events, and special promotions. Joining is a straightforward process; the user simply provides their email address on the website, and they'll begin receiving tailored email updates. Thanks to Mailchimp, the Run Hub team can segment the list, personalize emails, and measure the effectiveness of their email campaigns. By becoming part of the mailing list, users can stay well-informed and be among the first to discover the latest developments within the Run Hub community.
 
-## User Goals
+## Goals
+
+### User Goals
 
 - Easily find and purchase high-quality running shoes and related products.
 - Receive personalized fitting services to meet their unique running needs.
 - Stay updated on the latest running news and insights through the blog.
 - Connect with the Run Hub team for inquiries, support, and guidance.
 
-## Site Owner Goals
+### Site Owner Goals
 
 - Generate revenue through the sale of running products on the e-commerce platform and specialized software for running clubs and societies.
 - Cultivate a devoted and engaged customer base by offering a user-friendly experience and top-notch products and services.
@@ -184,6 +189,34 @@ To determine these priorities, I applied the MoSCoW prioritization technique, a 
 It's worth noting that in my project, some user stories labeled as "Must Have" were not completed. This occurred because certain epics related to these user stories were descoped due to capacity limitations.
 
 ### User Stories and Epics
+
+## Branding
+
+### Logo
+
+The Run Hub logo features the brand name "RUNHUB" in blue, with the "H" subtly extending its descender to form a loop from which a pair of running shoes hangs by their laces. The running shoes are depicted in vibrant red. The logo design creates a sense of unity between the brand name and the symbol, conveying that Run Hub is where runners come together to explore their passion for running. The hanging running shoes represent choice, customization, and individuality, as runners can find the perfect fit for their needs at Run Hub.
+
+The color combination of blue and red is carefully chosen to evoke trust and excitement. The blue of the brand name establishes reliability and professionalism, while the red of the running shoes communicates energy and passion. This combination reflects the brand's commitment to delivering top-quality products and services that ignite the enthusiasm of the running community.
+
+<img src="docs/runhub_logo.png"></img>
+
+### Colors
+
+-<strong>Torch Red</strong> The red color (#FF003D) symbolizes energy, passion, and action. It's an attention-grabbing and dynamic color that reflects the excitement and enthusiasm of the running community. Red signifies that Run Hub is a place where runners can find the products and services that drive them forward in their running journeys.
+
+-<strong>Azure Radiance</strong> The blue color (#007BFF) represents trust, reliability, and professionalism. It's a calming and stable color that conveys the idea that Run Hub is a trustworthy and dependable source for running enthusiasts. Blue is also commonly associated with the sky and water, which aligns with the outdoor and nature-related aspects of running.
+
+-<strong>White</strong> The white color (#FFFFFF) Creates a clean and simple canvas which will allow other elements such as the text, images and icons to stand out prominently.
+
+<img src="docs/design/colour_scheme.JPG"></img>
+
+### Fonts
+
+- <strong>Raleway</strong>: The title font for Run Hub, epitomizes modern sophistication. Its clean and contemporary sans-serif design exudes professionalism and reliability, aligning perfectly with the brand's image. The font's elegance adds a touch of class, making it ideal for showcasing the brand's name and essential headings. Raleway's versatility ensures a consistent and visually pleasing identity that resonates with Run Hub's target audience.
+
+- <strong>Open Sans</strong> The body font for Run Hub's website, is a beacon of clarity and readability. Its neutral sans-serif design ensures a comfortable reading experience, enhancing the accessibility of the content. The font's friendliness and approachability create a welcoming atmosphere, which is crucial for engaging visitors. Open Sans balances readability and style perfectly, making it the ideal choice for Run Hub's user-friendly approach. It contributes to the brand's professional image while ensuring that information is easily digestible and captures the audience's attention.
+
+### UX 
 
 ## Wireframes
 
@@ -213,33 +246,7 @@ I employed Balsamiq for crafting wireframes in my project. This user-friendly wi
 <img src="docs/wireframes/desktop_manage_orders.png"></img>
 </details>
 
-## Design
-
-### Logo
-
-The Run Hub logo features the brand name "RUNHUB" in blue, with the "H" subtly extending its descender to form a loop from which a pair of running shoes hangs by their laces. The running shoes are depicted in vibrant red. The logo design creates a sense of unity between the brand name and the symbol, conveying that Run Hub is where runners come together to explore their passion for running. The hanging running shoes represent choice, customization, and individuality, as runners can find the perfect fit for their needs at Run Hub.
-
-The color combination of blue and red is carefully chosen to evoke trust and excitement. The blue of the brand name establishes reliability and professionalism, while the red of the running shoes communicates energy and passion. This combination reflects the brand's commitment to delivering top-quality products and services that ignite the enthusiasm of the running community.
-
-<img src="docs/runhub_logo.png"></img>
-
-### Colors
-
--<strong>Torch Red</strong> The red color (#FF003D) symbolizes energy, passion, and action. It's an attention-grabbing and dynamic color that reflects the excitement and enthusiasm of the running community. Red signifies that Run Hub is a place where runners can find the products and services that drive them forward in their running journeys.
-
--<strong>Azure Radiance</strong> The blue color (#007BFF) represents trust, reliability, and professionalism. It's a calming and stable color that conveys the idea that Run Hub is a trustworthy and dependable source for running enthusiasts. Blue is also commonly associated with the sky and water, which aligns with the outdoor and nature-related aspects of running.
-
--<strong>White</strong> The white color (#FFFFFF) Creates a clean and simple canvas which will allow other elements such as the text, images and icons to stand out prominently.
-
-<img src="docs/design/colour_scheme.JPG"></img>
-
-### Fonts
-
-- <strong>Raleway</strong>: The title font for Run Hub, epitomizes modern sophistication. Its clean and contemporary sans-serif design exudes professionalism and reliability, aligning perfectly with the brand's image. The font's elegance adds a touch of class, making it ideal for showcasing the brand's name and essential headings. Raleway's versatility ensures a consistent and visually pleasing identity that resonates with Run Hub's target audience.
-
-- <strong>Open Sans</strong> The body font for Run Hub's website, is a beacon of clarity and readability. Its neutral sans-serif design ensures a comfortable reading experience, enhancing the accessibility of the content. The font's friendliness and approachability create a welcoming atmosphere, which is crucial for engaging visitors. Open Sans balances readability and style perfectly, making it the ideal choice for Run Hub's user-friendly approach. It contributes to the brand's professional image while ensuring that information is easily digestible and captures the audience's attention.
-
-## Structure
+### Structure
 
 My website development approach will prioritize mobile devices, adopting a mobile-first mindset. To ensure optimal styling across different screen sizes, I will focus on the smallest screen size of the iPhone 5/SE (320px) and incorporate appropriate screen size breakpoints for responsive design.[Bootstrap breakpoints](https://getbootstrap.com/docs/5.0/layout/breakpoints/ "Bootstrap breakpoints").
 
@@ -251,7 +258,7 @@ My website development approach will prioritize mobile devices, adopting a mobil
 | large       | => 992px   |
 | x-large     | => 1200px  |
 
-## Website pages
+### Website pages
 
 - Home
 - Products
@@ -269,11 +276,13 @@ My website development approach will prioritize mobile devices, adopting a mobil
 - Register
 - 404
 
-## AWS
-
 ## Database
 
-## Models  
+### ERD  
+
+### Models  
+
+## AWS
 
 ## Technologies Used
 
