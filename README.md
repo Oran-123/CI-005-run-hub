@@ -187,6 +187,30 @@ It's worth noting that in my project, some user stories labeled as "Must Have" w
 
 ## Wireframes
 
+<details><summary>Wireframe Home</summary>  
+<img src="docs/wireframes/desktop_home.png"></img>
+</details>
+
+<details><summary>Wireframe Products</summary>  
+<img src="docs/wireframes/desktop_products.png"></img>
+</details>
+
+<details><summary>Wireframe Checkout</summary>  
+<img src="docs/wireframes/desktop_checkout.png"></img>
+</details>
+
+<details><summary>Wireframe User Profile</summary>  
+<img src="docs/wireframes/desktop_userprofile.png"></img>
+</details>
+
+<details><summary>Wireframe Contact Us</summary>  
+<img src="docs/wireframes/desktop_contact.png"></img>
+</details>
+
+<details><summary>Wireframe Manage Orders</summary>  
+<img src="docs/wireframes/desktop_manage_orders.png"></img>
+</details>
+
 ## Design
 
 ### Logo
