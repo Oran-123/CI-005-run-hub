@@ -44,13 +44,10 @@ def add_to_bag(request, item_id):
             bag[item_id] = quantity
             messages.success(request, f'Added {product.name} to your bag')
 
-    request.session['bag'] = bag
-    bag_items = request.session.get('bag', {})
-
     context = {
-        'bag_items': bag_items,
+        'item': product,
     }
-
+    request.session['bag'] = bag
     return render(request, 'bag/bag.html', context)
 
 
@@ -94,4 +91,8 @@ def adjust_bag(request, item_id):
                             f'from your bag'))  
 
     request.session['bag'] = bag
-    return redirect(reverse('view_bag'))
+    context = {
+        'item': product,  
+    }
+
+    return render(request, 'bag/bag.html', context)
