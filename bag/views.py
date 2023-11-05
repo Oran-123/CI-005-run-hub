@@ -51,3 +51,23 @@ def add_to_bag(request, item_id):
 
 def adjust_bag(request, item_id):
     """Adjust the quantity of the specified product to the specified amount"""
+
+
+if 'product_size' in request.POST:
+    size = request.POST['product_size']
+    bag = request.session.get('bag', {})
+
+    if size:
+        if quantity > 0:
+            bag[item_id]['items_by_size'][size] = quantity
+            messages.success(request,
+                                (f'Updated size {size.upper()} '
+                                f'{product.name} quantity to '
+                                f'{bag[item_id]["items_by_size"][size]}'))
+        else:
+            del bag[item_id]['items_by_size'][size]
+            if not bag[item_id]['items_by_size']:
+                bag.pop(item_id)
+            messages.success(request,
+                                (f'Removed size {size.upper()} '
+                                f'{product.name} from your bag'))
