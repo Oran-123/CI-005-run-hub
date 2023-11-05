@@ -71,3 +71,15 @@ if 'product_size' in request.POST:
             messages.success(request,
                                 (f'Removed size {size.upper()} '
                                 f'{product.name} from your bag'))
+    else:
+        
+        if quantity > 0:
+            bag[item_id] = quantity
+            messages.success(request,
+                            (f'Updated {product.name} '
+                            f'quantity to {bag[item_id]}'))
+        else:
+            bag.pop(item_id)
+            messages.success(request,
+                            (f'Removed {product.name} '
+                            f'from your bag'))
