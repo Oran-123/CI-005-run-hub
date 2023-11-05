@@ -72,7 +72,6 @@ if 'product_size' in request.POST:
                                 (f'Removed size {size.upper()} '
                                 f'{product.name} from your bag'))
     else:
-        
         if quantity > 0:
             bag[item_id] = quantity
             messages.success(request,
@@ -83,3 +82,6 @@ if 'product_size' in request.POST:
             messages.success(request,
                             (f'Removed {product.name} '
                             f'from your bag'))
+    
+    request.session['bag'] = bag
+    return redirect(reverse('view_bag'))
