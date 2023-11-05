@@ -1,6 +1,8 @@
 from django.shortcuts import (
     render, redirect, reverse, HttpResponse, get_object_or_404
 )
+from django.contrib import messages
+from .models import Product
 # Create your views here.
 
 
@@ -44,4 +46,8 @@ def add_to_bag(request, item_id):
             messages.success(request, f'Added {product.name} to your bag')
 
     request.session['bag'] = bag
-    return redirect(redirect_url)
+    return redirect(redirect_url)ks
+
+
+def adjust_bag(request, item_id):
+    """Adjust the quantity of the specified product to the specified amount"""
