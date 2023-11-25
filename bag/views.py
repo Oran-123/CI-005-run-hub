@@ -16,6 +16,8 @@ def add_to_bag(request, item_id):
     product = get_object_or_404(Product, pk=item_id)
     quantity = int(request.POST.get('quantity'))
     size = None
+    redirect_url = request.POST.get('redirect_url')
+
 
     if 'product_size' in request.POST:
         size = request.POST['product_size']
@@ -25,16 +27,10 @@ def add_to_bag(request, item_id):
         if item_id in list(bag.keys()):
             if size in bag[item_id]['items_by_size'].keys():
                 bag[item_id]['items_by_size'][size] += quantity
-                messages.success(
-                    request, (f'Updated size {size.upper()} {product.name} quantity to {bag[item_id]["items_by_size"][size]}'))
             else:
                 bag[item_id]['items_by_size'][size] = quantity
-                messages.success(
-                    request, (f'Added size {size.upper()} {product.name} to your bag'))
         else:
             bag[item_id] = {'items_by_size': {size: quantity}}
-            messages.success(
-                request, (f'Added size {size.upper()} {product.name} to your bag'))
     else:
         if item_id in list(bag.keys()):
             bag[item_id] += quantity
@@ -48,7 +44,7 @@ def add_to_bag(request, item_id):
         'item': product,
     }
     request.session['bag'] = bag
-    return render(request, 'bag/bag.html', context)
+    return redirect(redirect_url)
 
 
 
